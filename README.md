@@ -3,7 +3,7 @@
 ![Figure_2](https://user-images.githubusercontent.com/49163010/105907922-db0c3980-6025-11eb-9292-c5338b75fb40.png)
 - this programme is made to calculate number pi 
 - to install in you machine open terminal and write this
-- git clone https://github.com/ayman1902/pifinder
+- git clone https://github.com/ayman1902/pifinder3D.git
 - if you have an issue open terminal and try this
 - python install pip3
 - pip3 install matplotlib
