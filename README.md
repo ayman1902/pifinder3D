@@ -1,5 +1,6 @@
 # Pifinder3D
-![Figure_1](https://user-images.githubusercontent.com/49163010/95660113-31a44500-0b15-11eb-9eff-c51f6608d98f.png)
+![Figure_1](https://user-images.githubusercontent.com/49163010/105907948-e495a180-6025-11eb-8094-6159aefbcdac.png)
+![Figure_2](https://user-images.githubusercontent.com/49163010/105907922-db0c3980-6025-11eb-9292-c5338b75fb40.png)
 - this programme is made to calculate number pi 
 - to install in you machine open terminal and write this
 - git clone https://github.com/ayman1902/pifinder
